@@ -1,4 +1,4 @@
-#V1
+# V1 Educational Lock Notes
 
 To assemble this model, you will need to print six parts. You will also need a spring. I used a 3/8 inch by 1 1/4 inch spring from my local hardware store.
 
