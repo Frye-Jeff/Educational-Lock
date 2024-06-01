@@ -26,7 +26,8 @@ Color 4:
 
 Construction:
 Press the Lock Ring into the Lock body with the slopped edge to the back of the lock and the notch at the 12 o'clock position. Use a small amount of super glue on the inside of the lock to affix the ring to the body. 
-![Figure 1](Images/Figure 1.jpg)
+
+![Figure 1](Images/Figure_1.jpg)
 
 Use the lock body to center the lock clip to the lock core and glue the clip to the core. With the core in the locked position, I recommend the clip's tab be in the 5 o'clock position. The clip/ring prevents the lock from accidentally coming apart during use.
 See Figure 2.
