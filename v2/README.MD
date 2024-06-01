@@ -1,6 +1,6 @@
-# V1 Educational Lock Notes
+# V2 Educational Lock Notes
 
-To assemble this model, you will need to print five parts and a spring. I used a 10mm by 30mm spring with a thickness of 0.5mm. You don't want the spring to be too stiff or the lock will be difficult to demo.
+To assemble this model, you must print five parts and a spring. I used a 10mm by 30mm spring with a thickness of 0.5mm. You don't want the spring to be too stiff or the lock will be difficult to demo.
 
 I recommend using four colors of filament.
 
